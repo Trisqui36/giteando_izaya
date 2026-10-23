@@ -1,3 +1,3 @@
 ```markdown
-# Guía de comandos Git
+## Guía de comandos Git
 ```
